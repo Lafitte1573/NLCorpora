@@ -1,9 +1,9 @@
 # NLGCorpora
 本项目专门盘点自然语言生成（NLG）领域的高质量中文数据集。为方便下载与使用，项目特地提供了各数据集的网盘链接（网盘中的数据集与原数据集完全一致，缓存在网盘中只是为了省去繁琐的申请、科学上网等过程）。如果本项目对您的研究或开发有帮助，您无需做任何引用，只需送上星⭐️星⭐️一颗，十年老码农在此感谢您的支持！
 
-<center>
-  <img src="cover.jpeg" alt="Example Image">
-</center>
+<p align="center">
+  <img src="cover.jpeg" alt="Example Image" style="width:80%; height:auto;">
+</p>
 
 ## 文本摘要
 #### CLTS
