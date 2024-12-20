@@ -1,18 +1,20 @@
 # Corpora
-本项目专门收集 NLG 领域的高质量中文数据集
+本项目专门汇总 NLG 领域的高质量中文数据集。为方便下载与使用，项目特地提供了各数据集的网盘链接（网盘中的数据集与原数据集完全一致，缓存在网盘中只是为了省去繁琐的申请、科学上网等过程）。如果本项目对您的研究或开发有帮助，您无需做任何引用，只需送上星星⭐️一颗，十年老码农在此感谢您的支持！
 
 ## 文本摘要
 #### CLTS
-- 论文：CLTS: A Chinese Long Text Summarization Dataset [[Paper]](https://)
-- 会议：
-- 简介：
-- 下载链接：[[夸克网盘]](https://)
+- **论文**：CLTS: A Chinese Long Text Summarization Dataset [[Paper]](https://)
+- **会议**：NLPCC 2020
+- **简介**：CLTS 是一个新的中文长文本摘要数据集，提取自中国新闻网站 ThePaper.cn。该数据集的最终版本包含超过 180,000 个长序列对，其中每篇文章由多个段落组成，每篇摘要由多个句子组成。
+- **属类**：新闻摘要，长文摘要
+- **下载链接**：[[夸克网盘]](https://)
 
 #### LCSTS
-- 论文： LCSTS: A Large Scale Chinese Short Text Summarization Dataset [[Paper]](https://)
-- 会议：
-- 简介：
-- 下载链接：[[夸克网盘]](https://)
+- **论文**：LCSTS: A Large Scale Chinese Short Text Summarization Dataset [[Paper]](https://)
+- **会议**：EMNLP 2015
+- **简介**：属于中文文本摘要的经典数据集，是一个由中国微博网站新浪微博构建并向公众发布的大型中文短文本摘要数据集。该语料库由 200 多万篇真实的中文短文本组成，每个文本的作者都会给出简短的摘要。
+- **属类**：短文摘要
+- **下载链接**：[[夸克网盘]](https://)
 
 ## 对话摘要
 ### 通用领域
@@ -23,7 +25,17 @@
 
 ### 通用领域
 
-1. **NaturalConv**
-2. **DuLeMon**
+#### NaturalConv
+- **论文**： [[Paper]](https://)
+- **会议**：
+- **简介**：
+- **下载链接**：[[夸克网盘]](https://)
+
+#### DuLeMon
+- **论文**： [[Paper]](https://)
+- **会议**：
+- **简介**：
+- **下载链接**：[[夸克网盘]](https://)
+
 
 ### 专门领域
