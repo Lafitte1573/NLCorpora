@@ -6,7 +6,8 @@
   <img src="cover.jpeg" alt="Example Image" style="width:80%; height:auto;">
 </p>
 
-## 文本摘要
+## 文本摘要（Document/Text Summarization）
+
 #### CLTS
 - **论文**：CLTS: A Chinese Long Text Summarization Dataset [[Paper]](https://)
 - **会议**：NLPCC 2020
@@ -21,13 +22,29 @@
 - **属类**：短文摘要
 - **下载链接**：[[夸克网盘]](https://)
 
-## 对话摘要
+
+## 对话摘要（Dialogue/Conversation Summarization）
 
 ### 客服对话摘要
 
+#### CSDS
+- **论文**：CSDS: A Fine-Grained Chinese Dataset for Customer Service Dialogue Summarization [[Paper]](https://)
+- **会议**：EMNLP 2021
+- **简介**：一个高质量中文客服对话摘要数据集。在 CSDS 中，每个对话标注出三种不同类型的摘要：1) 总体总结：总结了整个对话的主要信息。2) 用户摘要：关注于总结用户的主诉。3) 客服摘要：侧重于总结客服的响应。
+- **属类**：对话摘要，面向角色的对话摘要（Role-oriented DS），特殊领域对话摘要
+- **下载链接**：[[夸克网盘]](https://)
+
 ### 医学对话摘要
 
-## 多轮对话
+#### IMCS-MRG
+- **论文**：CBLUE: A Chinese Biomedical Language Understanding Evaluation Benchmark [[Paper]](https://arxiv.org/pdf/2106.08087)
+- **期刊**：Arxiv 2022
+- **简介**：中国生物医学语言理解评估基准（Chinese Biomedical Language Understanding Evaluation，CBLUE）定义了一系列医学领域的自然语言理解任务，包括命名实体识别、信息提取、临床诊断规范化，以及一个用于模型评估、比较和分析的相关在线平台。IMCS-MGR 是 CBLUE 的一个子集，定义了医学对话摘要任务，即从医患对话中自动生成对应的诊疗报告。
+- **属类**：对话摘要，面向角色的对话摘要（Role-oriented DS），特殊领域对话摘要
+- **下载链接**：IMCS-MGR 数据集有两个版本，分别在 2021 年提出 V1 版本 [[夸克网盘]](https://) 和 2022 年提出V2 版本 [[夸克网盘]](https://)
+
+
+## 多轮对话（Multi-turn Dialogue/Conversation）
 
 ### 闲聊
 
@@ -58,8 +75,12 @@
 #### ESConv
 - **论文**：Towards Emotional Support Dialog Systems [[Paper]](https://aclanthology.org/2021.acl-long.269.pdf)
 - **会议**：ACL 2021
-- **简介**：清华黄民烈老师组贡献的情绪支持对话数据集，应该是共情对话领域少有的数据集了，包含 1,300 组多轮对话，每组对话还涉及情感类别、对话策略、评分等信息。
+- **简介**：清华黄民烈老师组贡献的情绪支持对话数据集，是共情对话领域少有的高质量数据集，包含 1,300 组多轮对话，每组对话还涉及情感类别、对话策略、评分等信息。
 - **下载链接**：[[夸克网盘]](https://)
 
-
+#### CPED
+- **论文**：CPED: A Large-Scale Chinese Personalized and Emotional Dialogue Dataset for Conversational AI [[Paper]](https://aclanthology.org/2021.acl-long.269.pdf)
+- **会议**：Arxiv 2022
+- **简介**：CPED 数据集从 40 个中国电视节目中收集而来，由与同理心和个人特征相关的多源知识组成。这些知识涵盖了 13 种情绪、性别、大五人格特质、19 种对话行为等知识。
+- **下载链接**：[[夸克网盘]](https://)
 
