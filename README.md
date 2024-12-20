@@ -55,4 +55,11 @@
 
 ### 情感对话
 
+#### ESConv
+- **论文**：Towards Emotional Support Dialog Systems [[Paper]](https://aclanthology.org/2021.acl-long.269.pdf)
+- **会议**：ACL 2021
+- **简介**：清华黄民烈老师组贡献的情绪支持对话数据集，应该是共情对话领域少有的数据集了，包含 1,300 组多轮对话，每组对话还涉及情感类别、对话策略、评分等信息。
+- **下载链接**：[[夸克网盘]](https://)
+
+
 
