@@ -84,10 +84,10 @@
 - **论文**：Towards Emotional Support Dialog Systems [[Paper]](https://aclanthology.org/2021.acl-long.269.pdf)
 - **会议**：ACL 2021
 - **简介**：清华黄民烈老师组贡献的情绪支持对话数据集，是共情对话领域少有的高质量数据集，包含 1,300 组多轮对话，每组对话还涉及情感类别、对话策略、评分等信息。
-- **下载链接**：[[夸克网盘]](https://)
+- **下载链接**：[[夸克网盘]](https://pan.quark.cn/s/d76ca5bd91cd)
 
 #### CPED
-- **论文**：CPED: A Large-Scale Chinese Personalized and Emotional Dialogue Dataset for Conversational AI [[Paper]](https://aclanthology.org/2021.acl-long.269.pdf)
+- **论文**：CPED: A Large-Scale Chinese Personalized and Emotional Dialogue Dataset for Conversational AI [[Paper]](https://arxiv.org/pdf/2205.14727)
 - **会议**：Arxiv 2022
 - **简介**：CPED 数据集从 40 个中国电视节目中收集而来，由与同理心和个人特征相关的多源知识组成。这些知识涵盖了 13 种情绪、性别、大五人格特质、19 种对话行为等知识。
 - **下载链接**：[[夸克网盘]](https://)
