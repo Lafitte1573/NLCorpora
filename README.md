@@ -96,3 +96,8 @@ Content is coming soon ...
 - **简介**：CPED 数据集从 40 个中国电视节目中收集而来，由与同理心和个人特征相关的多源知识组成。这些知识涵盖了 13 种情绪、性别、大五人格特质、19 种对话行为等知识。
 - **下载链接**：[[夸克网盘]](https://)
 
+#### SMILECHAT
+- **论文**：SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support [[Paper]](https://aclanthology.org/2024.findings-emnlp.34)
+- **会议**：EMNLP 2024 Findings
+- **简介**：由西湖大学、浙大联合提出的合成数据集，调用 GPT-3.5-turbo 将壹心理网站开源的问答对扩展为多轮心理健康对话。数据集包含 55,165 组对话，每组对话平均包含 11.39 个回合，平均每组对话长度为 925.85 个字符。
+- **下载链接**：[[夸克网盘]](https://pan.quark.cn/s/d76ca5bd91cd)
