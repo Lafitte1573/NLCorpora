@@ -76,7 +76,11 @@
 
 ### 医学对话
 
-Content is coming soon ...
+#### MedDialog-CN
+- **论文**：MedDialog: Two Large-scale Medical Dialogue Datasets [[Paper]](https://arxiv.org/pdf/2004.03329)
+- **会议**：Arxiv 2020
+- **简介**：MedDialog-CN 是一个大规模的中文医疗对话数据集，包含 3,407,494 次患者与医生之间的咨询对话（其中有 2,216,020 次对话为单轮问答），共 11,260,564 条话语。该数据集涵盖了29个广泛的医学专科类别和172个细分类别，内容丰富多样，涉及从内科到儿科、牙科等多个领域。数据采集自2010年至2020年，来源为好大夫在线医疗服务平台，其中患者的对话内容包括病情描述、对话交流以及医生的诊断建议等部分，能够为医疗对话系统的研究提供丰富的语料支持。
+- **下载链接**：[[夸克网盘]](https://pan.quark.cn/s/f6a350323c6c)
 
 ### 客服对话
 
@@ -85,8 +89,6 @@ Content is coming soon ...
 - **会议**：ACL 2021
 - **简介**：该数据集由极[[智数据集]](https://www.jizhi-dataset.top)提供，包含来自电商领域的超过 20,000 组客户与客服之间的多轮对话，覆盖多个电商场景，如手机、家电、服装、鞋袜、图书、电脑等。数据集记录了客户与客服的对话内容，以及对应的中文和英文分词信息，适用于自然语言处理（NLP）任务 中的对话生成、情感分析、多语言模型训练等研究场景。
 - **下载链接**：[[原链接]](https://www.jizhi-dataset.top/index/category/detail/19/download) [[本站链接]](corpora/ECCSQA.xlsx)
-
-Content is coming soon ...
 
 ### 情感对话
 
