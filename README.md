@@ -80,6 +80,12 @@ Content is coming soon ...
 
 ### 客服对话
 
+#### ECCSQA
+- **论文**：Towards Emotional Support Dialog Systems [[Paper]](https://aclanthology.org/2021.acl-long.269.pdf)
+- **会议**：ACL 2021
+- **简介**：该数据集由极[[智数据集]](https://www.jizhi-dataset.top)提供，包含来自电商领域的超过 20,000 组客户与客服之间的多轮对话，覆盖多个电商场景，如手机、家电、服装、鞋袜、图书、电脑等。数据集记录了客户与客服的对话内容，以及对应的中文和英文分词信息，适用于自然语言处理（NLP）任务 中的对话生成、情感分析、多语言模型训练等研究场景。
+- **下载链接**：[[原链接]](https://www.jizhi-dataset.top/index/category/detail/19/download) [[本站链接]](corpora/ECCSQA.xlsx)
+
 Content is coming soon ...
 
 ### 情感对话
