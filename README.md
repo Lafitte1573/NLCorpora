@@ -9,21 +9,22 @@
 
 ## 数据集汇总表
 
-| 数据集名称 | 大类 | 小类 | 下载链接 |
-|------------|------|------|----------|
-| CLTS       | 文本摘要 | 长文本摘要 | [[夸克网盘]](https://pan.quark.cn/s/660dbc1dedae) |
-| LCSTS      | 文本摘要 | 短文本摘要 | [[夸克网盘]](https://pan.quark.cn/s/91fbc58aa7b8) |
-| CSDS       | 对话摘要 | 客服对话摘要 | [[夸克网盘]](https://pan.quark.cn/s/8c84193c7bb6) |
-| IMCS-MRG   | 对话摘要 | 医学对话摘要 | [[夸克网盘]](https://pan.quark.cn/s/23a67a1a1781) <br> [[夸克网盘]](https://pan.quark.cn/s/3beb5302a9ec) |
-| NaturalConv | 多轮对话 | 闲聊 | 原版 [[夸克网盘]](https://pan.quark.cn/s/2099152c450b) <br> 处理版 [[夸克网盘]](https://pan.quark.cn/s/98e2ea4d9ac6) |
-| DuLeMon    | 多轮对话 | 闲聊 | [[夸克网盘]](https://pan.quark.cn/s/ebfdb7d54859) |
-| LCCC       | 多轮对话 | 闲聊 | [[夸克网盘]](https://pan.quark.cn/s/bee777ee6bd4) |
-| CORECODE   | 多轮对话 | 闲聊 | [[夸克网盘]](https://pan.quark.cn/s/e88ad3bab560) |
-| MedDialog-CN | 多轮对话 | 医学对话 | [[夸克网盘]](https://pan.quark.cn/s/f6a350323c6c) |
-| ECCSQA     | 多轮对话 | 客服对话 | [[原链接]](https://www.jizhi-dataset.top/index/category/detail/19/download) <br> [[本站链接]](corpora/ECCSQA.xlsx) |
-| ESConv     | 多轮对话 | 情感对话 | [[夸克网盘]](https://pan.quark.cn/s/d76ca5bd91cd) |
-| CPED       | 多轮对话 | 情感对话 | [[夸克网盘]](https://) |
-| SMILECHAT  | 多轮对话 | 情感对话 | [[夸克网盘]](https://pan.quark.cn/s/d76ca5bd91cd) |
+| 数据集名称        | 大类   | 小类     | 下载链接                                                                                                        |
+|--------------|------|--------|-------------------------------------------------------------------------------------------------------------|
+| CLTS         | 文本摘要 | 长文本摘要  | [[夸克网盘]](https://pan.quark.cn/s/660dbc1dedae)                                                               |
+| LCSTS        | 文本摘要 | 短文本摘要  | [[夸克网盘]](https://pan.quark.cn/s/91fbc58aa7b8)                                                               |
+| CSDS         | 对话摘要 | 客服对话摘要 | [[夸克网盘]](https://pan.quark.cn/s/8c84193c7bb6)                                                               |
+| IMCS-MRG     | 对话摘要 | 医学对话摘要 | [[夸克网盘]](https://pan.quark.cn/s/23a67a1a1781) <br> [[夸克网盘]](https://pan.quark.cn/s/3beb5302a9ec)            |
+| NaturalConv  | 多轮对话 | 闲聊     | 原版 [[夸克网盘]](https://pan.quark.cn/s/2099152c450b) <br> 处理版 [[夸克网盘]](https://pan.quark.cn/s/98e2ea4d9ac6)     |
+| DuLeMon      | 多轮对话 | 闲聊     | [[夸克网盘]](https://pan.quark.cn/s/ebfdb7d54859)                                                               |
+| LCCC         | 多轮对话 | 闲聊     | [[夸克网盘]](https://pan.quark.cn/s/bee777ee6bd4)                                                               |
+| CORECODE     | 多轮对话 | 闲聊     | [[夸克网盘]](https://pan.quark.cn/s/e88ad3bab560)                                                               |
+| MedDialog-CN | 多轮对话 | 医学对话   | [[夸克网盘]](https://pan.quark.cn/s/f6a350323c6c)                                                               |
+| ECCSQA       | 多轮对话 | 客服对话   | [[原链接]](https://www.jizhi-dataset.top/index/category/detail/19/download) <br> [[本站链接]](corpora/ECCSQA.xlsx) |
+| ESConv       | 多轮对话 | 情感对话   | [[夸克网盘]](https://pan.quark.cn/s/d76ca5bd91cd)                                                               |
+| CPED         | 多轮对话 | 情感对话   | [[夸克网盘]](https://)                                                                                          |
+| SMILECHAT    | 多轮对话 | 情感对话   | [[夸克网盘]](https://pan.quark.cn/s/d76ca5bd91cd)                                                               |
+| Wikipedia    | 语言建模 | 语言建模   | [[中文维基]](https://dumps.wikimedia.org/zhwiki/latest/)                                                        |
 
 > **注意**：表格中的下载链接可能出现失效或错误的情况，具体以下文中给出的信息为准。
 
@@ -132,5 +133,5 @@
 - **下载链接**：[[夸克网盘]](https://pan.quark.cn/s/d76ca5bd91cd)
 
 
-### 大模型语料
+## 大模型语料
 - [[中文维基]](https://dumps.wikimedia.org/zhwiki/latest/) : 该网站实时更新最新的中文维基百科数据
