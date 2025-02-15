@@ -6,6 +6,27 @@
   <img src="figs/cover.jpeg" alt="Example Image" style="width:80%; height:auto;">
 </p>
 
+
+## 数据集汇总表
+
+| 数据集名称 | 大类 | 小类 | 下载链接 |
+|------------|------|------|----------|
+| CLTS       | 文本摘要 | 长文本摘要 | [[夸克网盘]](https://pan.quark.cn/s/660dbc1dedae) |
+| LCSTS      | 文本摘要 | 短文本摘要 | [[夸克网盘]](https://pan.quark.cn/s/91fbc58aa7b8) |
+| CSDS       | 对话摘要 | 客服对话摘要 | [[夸克网盘]](https://pan.quark.cn/s/8c84193c7bb6) |
+| IMCS-MRG   | 对话摘要 | 医学对话摘要 | [[夸克网盘]](https://pan.quark.cn/s/23a67a1a1781) <br> [[夸克网盘]](https://pan.quark.cn/s/3beb5302a9ec) |
+| NaturalConv | 多轮对话 | 闲聊 | 原版 [[夸克网盘]](https://pan.quark.cn/s/2099152c450b) <br> 处理版 [[夸克网盘]](https://pan.quark.cn/s/98e2ea4d9ac6) |
+| DuLeMon    | 多轮对话 | 闲聊 | [[夸克网盘]](https://pan.quark.cn/s/ebfdb7d54859) |
+| LCCC       | 多轮对话 | 闲聊 | [[夸克网盘]](https://pan.quark.cn/s/bee777ee6bd4) |
+| CORECODE   | 多轮对话 | 闲聊 | [[夸克网盘]](https://pan.quark.cn/s/e88ad3bab560) |
+| MedDialog-CN | 多轮对话 | 医学对话 | [[夸克网盘]](https://pan.quark.cn/s/f6a350323c6c) |
+| ECCSQA     | 多轮对话 | 客服对话 | [[原链接]](https://www.jizhi-dataset.top/index/category/detail/19/download) <br> [[本站链接]](corpora/ECCSQA.xlsx) |
+| ESConv     | 多轮对话 | 情感对话 | [[夸克网盘]](https://pan.quark.cn/s/d76ca5bd91cd) |
+| CPED       | 多轮对话 | 情感对话 | [[夸克网盘]](https://) |
+| SMILECHAT  | 多轮对话 | 情感对话 | [[夸克网盘]](https://pan.quark.cn/s/d76ca5bd91cd) |
+
+> **注意**：表格中的下载链接可能出现失效或错误的情况，具体以下文中给出的信息为准。
+
 ## 文本摘要（Document/Text Summarization）
 
 #### CLTS
@@ -109,3 +130,7 @@
 - **会议**：EMNLP 2024 Findings
 - **简介**：由西湖大学、浙大联合提出的合成数据集，调用 GPT-3.5-turbo 将壹心理网站开源的问答对扩展为多轮心理健康对话。数据集包含 55,165 组对话，每组对话平均包含 11.39 个回合，平均每组对话长度为 925.85 个字符。
 - **下载链接**：[[夸克网盘]](https://pan.quark.cn/s/d76ca5bd91cd)
+
+
+### 大模型语料
+- [[中文维基]](https://dumps.wikimedia.org/zhwiki/latest/) : 该网站实时更新最新的中文维基百科数据
