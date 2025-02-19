@@ -134,4 +134,8 @@
 
 
 ## 大模型语料
-- [[中文维基]](https://dumps.wikimedia.org/zhwiki/latest/) : 该网站实时更新最新的中文维基百科数据
+- [[中文维基]](https://dumps.wikimedia.org/zhwiki/latest/) : 该网站实时更新最新的中文维基百科数据，推荐下载文件：zhwiki-latest-pages-articles.xml.bz2，该文件包含了最新的中文维基百科的所有条目，并以XML格式进行存储，同时使用bzip2算法进行了压缩，以便于传输和存储。Linux 下载命令：
+``` bash
+wget https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2
+```
+- [[英文维基]](https://dumps.wikimedia.org/enwiki/latest/) :下载文件：enwiki-latest-pages-articles.xml.bz2
