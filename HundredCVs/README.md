@@ -34,13 +34,19 @@ HundredCVs 的提出主要是为了方便研究者开展基于简历的自然语
 
 注：*为数据集中的平均长度（字数）。
 
+## 应用场景
+本数据集的应用场景包括但不限于以下几种：
+- **角色扮演**：利用简历数据集设计基于简历的虚拟角色，用于对话系统的训练和开发。
+- **人物画像**：可以利用简历数据集做增量开发，构建人物画像训练数据集，应用于人物特征的提取和建模。
+- **简历文本摘要**：以详细经历作为源文本，个人自述或个人经历作为目标文本构建简历文本摘要任务。
+
 ## 数据集使用
 如果我们的工作对您有帮助，请按照以下方式引用：
 
 ```
 @misc{HundredCVs,
     title={HundredCVs: A Curriculum Vitae Dataset of 100 Young Chinese People},
-    author={Jiaxin Duan, Fengyu Lu, Junfei Liu},
+    author={Jiaxin Duan, Fengyu Lu},
     year={2024},
     howpublished={\url{https://github.com/Lafitte1573/NLCorpora}},
     note={Accessed: 31 December 2024}
