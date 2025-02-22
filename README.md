@@ -15,6 +15,7 @@
 | LCSTS        | 文本摘要 | 短文本摘要  | [[夸克网盘]](https://pan.quark.cn/s/91fbc58aa7b8)                                                               |
 | CSDS         | 对话摘要 | 客服对话摘要 | [[夸克网盘]](https://pan.quark.cn/s/8c84193c7bb6)                                                               |
 | IMCS-MRG     | 对话摘要 | 医学对话摘要 | [[夸克网盘]](https://pan.quark.cn/s/23a67a1a1781) <br> [[夸克网盘]](https://pan.quark.cn/s/3beb5302a9ec)            |
+| HET-MC       | 对话摘要 | 医学对话摘要 | [[Github]](https://github.com/cuhksz-nlp/HET-MC/tree/main/sample_data)                                      |
 | NaturalConv  | 多轮对话 | 闲聊     | 原版 [[夸克网盘]](https://pan.quark.cn/s/2099152c450b) <br> 处理版 [[夸克网盘]](https://pan.quark.cn/s/98e2ea4d9ac6)     |
 | DuLeMon      | 多轮对话 | 闲聊     | [[夸克网盘]](https://pan.quark.cn/s/ebfdb7d54859)                                                               |
 | LCCC         | 多轮对话 | 闲聊     | [[夸克网盘]](https://pan.quark.cn/s/bee777ee6bd4)                                                               |
@@ -65,6 +66,12 @@
 - **标签**：对话摘要，面向角色的对话摘要（Role-oriented DS），特殊领域对话摘要
 - **下载链接**：IMCS-MGR 数据集有两个版本，分别在 2021 年提出 V1 版本 [[夸克网盘]](https://pan.quark.cn/s/23a67a1a1781) 和 2022 年提出V2 版本 [[夸克网盘]](https://pan.quark.cn/s/3beb5302a9ec)
 
+#### HET-MC
+- **论文**：Summarizing Medical Conversations via Identifying Important Utterances [[Paper]](https://aclanthology.org/2020.coling-main.63.pdf)
+- **期刊**：Coling 2020
+- **简介**：中国生物医学语言理解评估基准（Chinese Biomedical Language Understanding Evaluation，CBLUE）定义了一系列医学领域的自然语言理解任务，包括命名实体识别、信息提取、临床诊断规范化，以及一个用于模型评估、比较和分析的相关在线平台。IMCS-MGR 是 CBLUE 的一个子集，定义了医学对话摘要任务，即从医患对话中自动生成对应的诊疗报告。
+- **标签**：对话摘要，面向角色的对话摘要（Role-oriented DS），特殊领域对话摘要
+- **下载链接**：[[Github]](https://github.com/cuhksz-nlp/HET-MC/tree/main/sample_data) 或 [[夸克网盘]](https://pan.quark.cn/s/7c10561b2294)
 
 ## 多轮对话（Multi-turn Dialogue/Conversation）
 
@@ -107,9 +114,7 @@
 ### 客服对话
 
 #### ECCSQA
-- **论文**：Towards Emotional Support Dialog Systems [[Paper]](https://aclanthology.org/2021.acl-long.269.pdf)
-- **会议**：ACL 2021
-- **简介**：该数据集由极[[智数据集]](https://www.jizhi-dataset.top)提供，包含来自电商领域的超过 20,000 组客户与客服之间的多轮对话，覆盖多个电商场景，如手机、家电、服装、鞋袜、图书、电脑等。数据集记录了客户与客服的对话内容，以及对应的中文和英文分词信息，适用于自然语言处理（NLP）任务 中的对话生成、情感分析、多语言模型训练等研究场景。
+- **简介**：该数据集由[[极智数据集]](https://www.jizhi-dataset.top)提供，包含来自电商领域的超过 20,000 组客户与客服之间的多轮对话，覆盖多个电商场景，如手机、家电、服装、鞋袜、图书、电脑等。数据集记录了客户与客服的对话内容，以及对应的中文和英文分词信息，适用于自然语言处理（NLP）任务 中的对话生成、情感分析、多语言模型训练等研究场景。
 - **下载链接**：[[原链接]](https://www.jizhi-dataset.top/index/category/detail/19/download) [[本站链接]](corpora/ECCSQA.xlsx)
 
 ### 情感对话
