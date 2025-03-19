@@ -133,7 +133,7 @@ DialogES 数据集默认保存为 jsonl 文件，其中每行是一个 json 对�
 @misc{DialogES,
   author = {Jiaxin Duan and Fengyu Lu},
   title = {{DialogES: A Large Dataset for Generating Dialogue Events and Summaries}},
-  year = {2025}, % 根据实际年份调整
+  year = {2025},
   howpublished = {\url{https://github.com/your-repo-url}}
 }
 ```
