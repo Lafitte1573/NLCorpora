@@ -21,7 +21,7 @@
 | LCCC         | 多轮对话 | 闲聊     | [[夸克网盘]](https://pan.quark.cn/s/bee777ee6bd4)                                                                |
 | CORECODE     | 多轮对话 | 闲聊     | [[夸克网盘]](https://pan.quark.cn/s/e88ad3bab560)                                                                |
 | MedDialog-CN | 多轮对话 | 医学对话   | [[夸克网盘]](https://pan.quark.cn/s/f6a350323c6c)                                                                |
-| IMCS-V2      | 多轮对话 | 医学对话   | 原版 [[天池官网]](https://tianchi.aliyun.com/dataset/95414) <br> 处理版 [[夸克网盘]](https://pan.quark.cn/s/b080a647d35d) |
+| IMCS-DAC     | 多轮对话 | 医学对话   | 原版 [[天池官网]](https://tianchi.aliyun.com/dataset/95414) <br> 处理版 [[夸克网盘]](https://pan.quark.cn/s/b080a647d35d) |
 | MedDG        | 多轮对话 | 医学对话   | 原版 [[天池官网]](https://tianchi.aliyun.com/dataset/95414) <br> 处理版 [[夸克网盘]](https://pan.quark.cn/s/67740368912a)  |
 | ECCSQA       | 多轮对话 | 客服对话   | [[原链接]](https://www.jizhi-dataset.top/index/category/detail/19/download) <br> [[本站链接]](corpora/ECCSQA.xlsx)  |
 | ESConv       | 多轮对话 | 情感对话   | [[夸克网盘]](https://pan.quark.cn/s/d76ca5bd91cd)                                                                |
